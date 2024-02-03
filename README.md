@@ -10,7 +10,7 @@ A simple ToDo list application with a mock backend using JSONPlaceholder.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Overview
@@ -41,3 +41,6 @@ This project is a basic ToDo list application built with HTML, CSS, and JavaScri
 1. Open the ToDo list app in your web browser.
 2. Enter a task in the input field and click the "Add Task" button to add a new task.
 3. Click the "Delete" button next to a task to remove it from the list.
+
+## Screenshots
+![Screenshot](./screenshot.png)
